@@ -1,4 +1,4 @@
-# Array creation
+# Array creation 
 
 array = Array.new(5,1)
 
