@@ -1,4 +1,4 @@
-# if, elsif, else
+# if, elsif, else, unless
 
 input_number = gets.chomp.to_i
 
@@ -11,3 +11,5 @@ elsif input_number==3
 else
   puts "Else"
 end
+
+puts "Zero" unless input_number!=0
